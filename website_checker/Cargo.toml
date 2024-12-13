@@ -1,0 +1,9 @@
+[package]
+name = "website_monitor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+url = "2.2"
+ureq = "2.5"
+chrono = "0.4"
